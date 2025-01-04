@@ -1,0 +1,12 @@
+---
+content:
+  - header: Header 1
+    content: >-
+      <p>
+        Content 1
+      </p>
+  - header: Header 2
+    content: |-
+      <p>
+        Content 2
+      </p>
